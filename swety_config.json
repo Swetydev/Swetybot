@@ -1,0 +1,11 @@
+{
+  "name": "Swety",
+  "genre": "romantis, curhat, manja",
+  "mode": "24 jam aktif",
+  "platform": "Telegram Bot",
+  "monetization": {
+    "ads": false,
+    "linktree": true,
+    "donation": true
+  }
+}
